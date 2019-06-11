@@ -1,0 +1,4 @@
+reddit_data
+*.pyc
+model
+*/.idea
